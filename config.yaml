@@ -1,0 +1,8 @@
+path: D:\\Data Science\\Deep Learning Projects\\Text Extraction\\Barcode number Extractor\\data  # dataset root dir
+train: train/images  # train images (relative to 'path')
+val: val/images  # val images (relative to 'path')
+
+# Classes
+nc: 1
+
+names: ["barcode"]
